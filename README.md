@@ -19,6 +19,17 @@ Welcome to my GitHub profile. I'm a Junior Developer based in Masvingo, Zimbabwe
 - **Machine Learning**: scikit-learn, Pandas, Numpy
 - **Data Analysis & Visualization**: Jupyter Notebooks, Matplotlib, Seaborn
 
+## 📈 GitHub Stats
+
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickzvenyika&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+## 🛠 Skills & Technologies
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Django](https://img.shields.io/badge/Django-3.2-blueviolet)
+
+
 ## 🌟 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/patrickzvenyika/)
