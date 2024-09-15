@@ -38,5 +38,3 @@ Welcome to my GitHub profile. I'm a Junior Developer based in Masvingo, Zimbabwe
 Feel free to check out my repositories and reach out if you have any questions or opportunities!
 
 ---
-
-**Note**: If you'd like to display other GitHub stats or badges, you can use GitHub Actions, Shields.io, or other services. The link provided above for GitHub stats is from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
