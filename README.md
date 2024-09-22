@@ -21,7 +21,7 @@ Welcome to my GitHub profile. I'm a Junior Developer based in Masvingo, Zimbabwe
 
 ## 📈 GitHub Stats
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickzvenyika&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickzvenyka&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 🛠 Skills & Technologies
 
