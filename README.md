@@ -33,7 +33,7 @@ Welcome to my GitHub profile. I'm a Junior Developer based in Masvingo, Zimbabwe
 ## 🌟 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/patrick-zvenyika-0b2725195/)
-- [Twitter](https://twitter.com/patrickzvenyika)
+- [Twitter](https://x.com/patrick_zvenyka)
 
 Feel free to check out my repositories and reach out if you have any questions or opportunities!
 
