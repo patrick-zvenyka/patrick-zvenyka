@@ -30,6 +30,18 @@ I'm **Patrick Zvenyika**, an aspiring Junior Developer based in Masvingo, Zimbab
 
 ---
 
+### 📊 GitHub Stats & Activity
+
+Showcasing my recent activity and overall contributions!
+
+[![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrick-zvenyka&show_icons=true&theme=vue&hide_border=true)](https://github.com/patrick-zvenyka)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-zvenyka&layout=compact&theme=vue&hide_border=true)](https://github.com/patrick-zvenyka)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=patrick-zvenyka&theme=flat&no-border=true)](https://github.com/patrick-zvenyka)
+
+---
+
 ### 🌟 Let's Connect
 
 | Platform | Link |
