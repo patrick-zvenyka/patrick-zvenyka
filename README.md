@@ -38,7 +38,6 @@ Showcasing my recent activity and overall contributions!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-zvenyka&layout=compact&theme=vue&hide_border=true)](https://github.com/patrick-zvenyka)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=patrick-zvenyka&theme=flat&no-border=true)](https://github.com/patrick-zvenyka)
 
 ---
 
