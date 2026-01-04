@@ -18,13 +18,6 @@ Hi there 👋<br>🚀 About Me<br>I'm Patrick Zvenyika, an aspiring Junior Devel
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=patrick-zvenyka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📊 GitHub Stats & Activity
-
-Showcasing my recent activity and overall contributions!
-
-[![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrick-zvenyka&show_icons=true&theme=vue&hide_border=true)](https://github.com/patrick-zvenyka)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-zvenyka&layout=compact&theme=vue&hide_border=true)](https://github.com/patrick-zvenyka)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=patrick-zvenyka&icon=0&color=0)](https://visitcount.itsvg.in)
