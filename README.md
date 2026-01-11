@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>🚀 About Me<br>I'm Patrick Zvenyika, an aspiring Junior Developer based in Masvingo, Zimbabwe. I'm passionate about coding, problem-solving, and building impactful solutions. My core focus areas are Data Science, Artificial Intelligence (AI), and Full Stack Web Development.<br><br>Current Focus<br>🔭 I’m currently working on web development and machine learning projects.<br>🌱 I’m currently learning advanced Django features and machine learning algorithms.<br>👯 I’m looking to collaborate on interesting web development, data science and analytics, and machine learning projects.<br>🤔 I’m looking for help with advanced machine learning concepts and deployment strategies.<br>💬 Ask me about Python, Django, JavaScript, and data analysis.<br>📫 How to reach me: patrickzvenyika21@gmail.com<br>😄 Pronouns: He/Him (A common professional assumption, please adjust if different!)<br>⚡ Fun fact: I love exploring new technologies and solving complex problems.
+Hi there 👋<br>🚀 About Me<br>I'm Patrick Zvenyika, tech enthusiast.
 
 
 ## 🌐 Socials:
